@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Eric(LO,WEI-HSIANG)
+# Hi there 👋 I'm Eric(LO,WEI-HSIANG)!
 
 ### | 心理學 × 人資技術 × 前端開發 |
 
