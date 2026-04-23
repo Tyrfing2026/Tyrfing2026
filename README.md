@@ -34,7 +34,7 @@
 - **簡介**：利用視覺編碼降低競技遊戲中的認知負荷，解決團隊溝通延遲問題的互動地圖工具。
 - **技術**：Tailwind CSS, Responsive Design.
 
-### 🍎 [NutriTrack Assistant](https://github.com/Tyrfing2026/nutritrack-v3) *(範例專案名)*
+### 🍎 [YourDietKing](https://github.com/Tyrfing2026/nutritrack-v3)
 - **簡介**：專為健身飲食需求者設計的營養追蹤工具，結合自律管理與數據紀錄。
 - **技術**：JavaScript, DOM Manipulation.
 
